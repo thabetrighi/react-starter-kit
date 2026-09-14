@@ -6,7 +6,9 @@
     { "path": "./apps/email" },
     { "path": "./apps/web" },
     { "path": "./db" },
+    { "path": "./packages/api-client" },
     { "path": "./packages/core" },
+    { "path": "./packages/permissions" },
     { "path": "./packages/ui" },
     { "path": "./packages/ws-protocol" },
     { "path": "./scripts" }
